@@ -4,9 +4,6 @@ draft = false
 title = 'Разбор crackme "Wheredakey" от Glitch_Baby: 4 способа решить таск'
 tags = ["reverse-engineering", "crackme", "cutter", "gdb", "pwndbg", "x86-64"]
 +++
-
-# Разбор простого задания с сайта crackmes.one "Wheredakey" от Glitch_Baby
-
 {{< lead >}}
 В этой статье разберём основные способы решения crackme и используемые инструменты на примере простого задания: от ручного ковыряния стека до динамического перехвата, подмены флагов процессора и бинарного патчинга.
 {{< /lead >}}
