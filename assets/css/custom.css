@@ -1,0 +1,10 @@
+/* Фоновое изображение для всего сайта */
+html.dark body {
+  background-image: 
+    linear-gradient(rgba(18, 18, 18, 0.85), rgba(18, 18, 18, 0.95)), 
+    url('/img/bg.png');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
