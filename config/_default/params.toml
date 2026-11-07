@@ -79,7 +79,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [article]
   showDate = true
-  showViews = false
+  showViews = true
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
@@ -140,7 +140,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showBreadcrumbs = false
   showSummary = false
   showViews = false
-  showLikes = false
+  showLikes = true
   showTableOfContents = false
   showCards = false
   orderByWeight = false
@@ -180,12 +180,12 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
+  apiKey = "AIzaSyAfdkQ9gE1vlEumSNdb5FK9r9wp_NeB_3g"
+  authDomain = "my-re-blog.firebaseapp.com"
+  projectId = "my-re-blog"
+  storageBucket = "my-re-blog.firebasestorage.app"
+  messagingSenderId = "726801409690"
+  appId = "1:726801409690:web:f3838c48b06ff6c563a123"
   # measurementId = "XXXXXX"
 
 [fathomAnalytics]
