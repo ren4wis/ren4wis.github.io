@@ -1,5 +1,5 @@
 +++
-date = '2026-11-02T21:40:00+03:00'
+date = '2026-11-07T21:40:00+03:00'
 draft = false
 title = 'Разбор IOLI Crackme 0x01–0x03: граф функций, оптимизации декомпилятора и шифр Цезаря'
 tags = ["reverse-engineering", "crackme", "ghidra", "x86", "assembly", "ioli"]
