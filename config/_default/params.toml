@@ -113,6 +113,22 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
   showZenMode = false
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
+  showComments = true
+
+[comments]
+  engine = "giscus"
+
+  [comments.giscus]
+    repo = "ren4wis/ren4wis.github.io"
+    repoId = "R_kgDOVfWQlA"          # вставьте ваш ID из giscus
+    category = "General"
+    categoryId = "DIC_kwDOVfWQlM4DKnMv"    # вставьте ваш ID из giscus
+    mapping = "pathname"
+    theme = "preferred_color_scheme"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "top"
+    lang = "ru"
 
 [list]
   showHero = false
