@@ -5,6 +5,7 @@ title = 'Разбор IOLI Crackme 0x01–0x03: граф функций, опт�
 tags = ["reverse-engineering", "crackme", "ghidra", "x86", "assembly", "ioli"]
 series = ["IOLI Crackme"]
 series_order = 2
+showComments = true
 +++
 {{< lead >}}
 Во второй части цикла решаем таски IOLI Crackme 0x01, 0x02 и 0x03. Если в прошлый раз мы искали открытую строку, то теперь столкнемся с числами в hex, научимся работать с графом функций (Function Graph), поймаем декомпилятор на скрытых вычислениях, научимся комментировать листинг и разберем первый цикл с шифром Цезаря.
